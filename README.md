@@ -190,4 +190,4 @@ To run this project on your local machine, follow these steps:
 
 * **[Group_8]** - [Contributers]
 * Shallom Githui,JoyAran, SteveJoel, Simonrank, KemboiBett, Raphael
-* Working GUI: 
+* Working UI: **https://v0-cancer-nlp-chatbot.vercel.app/**
