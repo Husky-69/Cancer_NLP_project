@@ -189,4 +189,5 @@ To run this project on your local machine, follow these steps:
 ## 13. Contact / Contributors
 
 * **[Group_8]** - [Contributers]
-* JoyAran, Husky_69, SteveJoel, Simonrank, KemboiBett, Raphael
+* Shallom Githui,JoyAran, SteveJoel, Simonrank, KemboiBett, Raphael
+* Working GUI: 
